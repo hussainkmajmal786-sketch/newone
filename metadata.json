@@ -1,0 +1,8 @@
+{
+  "name": "ZERONE 7.0 - Tech Symposium",
+  "description": "A high-tech, futuristic event landing page for ZERONE 7.0, featuring event scheduling, real-time countdowns, AI-powered event guide, and a dynamic leaderboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
